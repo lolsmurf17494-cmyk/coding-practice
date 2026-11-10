@@ -1,5 +1,5 @@
 def count_words(sentence):
-    count = {} #123
+    count = {} #12345
     sentence = sentence.lower()
     sentence = sentence.split()
     for word in sentence:
